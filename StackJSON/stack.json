@@ -1,0 +1,25 @@
+{
+  "$App": {
+    "type": "HStack",
+    "style": {
+      "alignment": "center"
+    },
+    "content": [
+      {
+        "type": "Spacer",
+        "style": {
+          "background": "#ffffff",
+          "size": "200,200"
+        }
+      },
+      {
+        "type": "Text",
+        "value": "Hello, SwiftUI! ",
+        "style": {
+          "size": 16,
+          "foregroundColor": "#333333"
+        }
+      }
+    ]
+  }
+}
